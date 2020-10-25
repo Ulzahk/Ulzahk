@@ -4,7 +4,6 @@ I'm Francisco (Ulzahk) Suarez, a <b>Backend Programmer</b> focused in developing
 
 <div align="center">
   <img alt="Ulzahk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ulzahk&show_icons=true&hide_border=true&title_color=ffa500&text_color=fff&icon_color=ffa500&bg_color=100,414141,000000&hide=contribs,issues" />
-</div>
 
 ### 📲 Web
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/TR/html52/)
@@ -29,4 +28,4 @@ I'm Francisco (Ulzahk) Suarez, a <b>Backend Programmer</b> focused in developing
 [![Linkedin](https://img.shields.io/badge/-Ulzahk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-javier-suarez-verdugo/)
 [![Gmail](https://img.shields.io/badge/-ulzahk@gmail.com-F2F2F2?style=flat&logo=Gmail&logoColor=c14438)](mailto:ulzahk@gmail.com)
 [![Twitter](https://img.shields.io/badge/-@Ulzahk-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ulzahk)
-
+</div>
