@@ -13,7 +13,7 @@ I'm Francisco (Ulzahk) Suarez, a <b>Backend Programmer</b> focused in developing
 ### 🗃 Server
 [![Nodejs](https://img.shields.io/badge/-Node.js-F2F2F2?style=flat&logo=Node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/-Express-gray?style=flat)](https://expressjs.com/)
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
 
 ### 💿 Databases
 [![MongoDB](https://img.shields.io/badge/-MongoDB-F2F2F2?style=flat&logo=mongodb)](https://www.mongodb.com/)
