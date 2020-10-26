@@ -1,6 +1,6 @@
 ## <img src ="./assets/wave.gif" width = "25px"> Good day!
 
-I'm Francisco (Ulzahk) Suarez, a <b>Backend Developer</b> in create and improve the structure of applications and software. 
+I'm Francisco (Ulzahk) Suarez, a <b>Backend Developer</b> focused in create and improve the structure of applications and software. 
 
 <div align="center">
   <img alt="Ulzahk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ulzahk&show_icons=true&hide_border=true&title_color=ffa500&text_color=fff&icon_color=ffa500&bg_color=100,414141,000000&hide=contribs,issues" />
