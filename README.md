@@ -25,7 +25,7 @@ I'm Francisco (Ulzahk) Suarez, a <b>Backend Developer</b> focused in create and 
 [![Trello](https://img.shields.io/badge/-Trello-0080CB?style=flat&logo=trello)](https://trello.com/)
 
 ### 📝 You Can Contact Me Throught 📝
-[![Linkedin](https://img.shields.io/badge/-Ulzahk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-javier-suarez-verdugo/)
+[![Linkedin](https://img.shields.io/badge/-Ulzahk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ulzahk)
 [![Gmail](https://img.shields.io/badge/-ulzahk@gmail.com-F2F2F2?style=flat&logo=Gmail&logoColor=c14438)](mailto:ulzahk@gmail.com)
 [![Twitter](https://img.shields.io/badge/-@Ulzahk-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ulzahk)
 </div>
