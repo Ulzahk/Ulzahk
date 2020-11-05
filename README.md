@@ -24,13 +24,8 @@ Francisco ( Ulzahk ) Suarez is a programmer focused on developing and improving 
 [![Notion](https://img.shields.io/badge/-Notion-F2F2F2?style=float&logo=notion&logoColor=black)](https://www.notion.so/)
 [![Trello](https://img.shields.io/badge/-Trello-0080CB?style=flat&logo=trello)](https://trello.com/)
 
-<<<<<<< HEAD
 ### 📝 You Can Contact Him Throught 📝
-[![Linkedin](https://img.shields.io/badge/-Ulzahk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-javier-suarez-verdugo/)
-=======
-### 📝 You Can Contact Me Throught 📝
 [![Linkedin](https://img.shields.io/badge/-Ulzahk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ulzahk)
->>>>>>> 5893440079dac21033d1835e3331199120ff41c6
 [![Gmail](https://img.shields.io/badge/-ulzahk@gmail.com-F2F2F2?style=flat&logo=Gmail&logoColor=c14438)](mailto:ulzahk@gmail.com)
 [![Twitter](https://img.shields.io/badge/-@Ulzahk-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ulzahk)
 </div>
