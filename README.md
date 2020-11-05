@@ -1,6 +1,6 @@
-## <img src ="./assets/wave.gif" width = "25px"> Good day!
+## <img src ="./assets/wave.gif" width = "25px"> Good Day!
 
-I'm Francisco (Ulzahk) Suarez, a <b>Backend Developer</b> focused in create and improve the structure of applications and software. 
+Francisco ( Ulzahk ) Suarez is a programmer focused on developing and improving the backend structure of large applications. In addition to following agile methodologies to document each of the processes carried out and thus achieve the established objectives. He invests his free time in learning with online courses, making web projects and exercising by jumping rope. 
 
 <div align="center">
   <img alt="Ulzahk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ulzahk&show_icons=true&hide_border=true&title_color=ffa500&text_color=fff&icon_color=ffa500&bg_color=100,414141,000000&hide=contribs,issues" />
@@ -24,7 +24,7 @@ I'm Francisco (Ulzahk) Suarez, a <b>Backend Developer</b> focused in create and 
 [![Notion](https://img.shields.io/badge/-Notion-F2F2F2?style=float&logo=notion&logoColor=black)](https://www.notion.so/)
 [![Trello](https://img.shields.io/badge/-Trello-0080CB?style=flat&logo=trello)](https://trello.com/)
 
-### 📝 You Can Contact Me Throught 📝
+### 📝 You Can Contact Him Throught 📝
 [![Linkedin](https://img.shields.io/badge/-Ulzahk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-javier-suarez-verdugo/)
 [![Gmail](https://img.shields.io/badge/-ulzahk@gmail.com-F2F2F2?style=flat&logo=Gmail&logoColor=c14438)](mailto:ulzahk@gmail.com)
 [![Twitter](https://img.shields.io/badge/-@Ulzahk-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ulzahk)
