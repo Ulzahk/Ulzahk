@@ -5,6 +5,14 @@ Francisco ( Ulzahk ) Suarez is a programmer focused on developing and improving 
 <div align="center">
   <img alt="Ulzahk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ulzahk&show_icons=true&hide_border=true&title_color=ffa500&text_color=fff&icon_color=ffa500&bg_color=100,414141,000000&hide=contribs,issues" />
 
+### Projects He Has Worked On
+  • [Basic Blog System](https://frontend-blog-ulzahk.vercel.app/)  
+  • [Roompali](https://frontend-roompali.vercel.app/)  
+  • [Pandar](https://pandar.vercel.app/)  
+  • [Escalindromo](https://ulzahk.github.io/Escalindromo/)  
+  • [Technical Documentation Page](https://ulzahk.github.io/FCC-Technical-Documentation-Page/)  
+  • [Survey Form](https://ulzahk.github.io/FCC-Survey-Form/)
+
 ### 📲 Web 📲
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/TR/html52/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
