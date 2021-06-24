@@ -5,8 +5,12 @@
 
 Francisco ( Ulzahk ) Suarez is a programmer focused on developing and improving the backend structure of large applications. In addition to following agile methodologies to document each of the processes carried out and thus achieve the established objectives. He invests his free time in learning with online courses, making web projects and exercising by jumping rope. 
 
-<p align="center" style="margin-bottom: 1rem;font-size: 1.5rem;">Reach Him On 📫 </p>
+
 <div align="center">
+
+## Reach Him On 📫
+
+<br/>
 
 [![Linkedin](https://img.shields.io/badge/-Ulzahk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ulzahk)
 [![Gmail](https://img.shields.io/badge/-ulzahk@gmail.com-F2F2F2?style=flat&logo=Gmail&logoColor=c14438)](mailto:ulzahk@gmail.com)
@@ -16,9 +20,8 @@ Francisco ( Ulzahk ) Suarez is a programmer focused on developing and improving 
 
 ---
 
-<p style="font-size: 1.7rem;">
-  GitHub Stats 📊
-</p>
+## GitHub Stats 📊
+
 <div align="center">
   <img alt="Ulzahk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ulzahk&show_icons=true&hide_border=true&title_color=ffa500&text_color=fff&icon_color=ffa500&bg_color=900,414141,000000&hide=contribs,issues" />
 
@@ -30,9 +33,9 @@ Francisco ( Ulzahk ) Suarez is a programmer focused on developing and improving 
 
 ---
 
-<p style="font-size: 1.7rem;">
-  Technologies ⚡
-</p>
+
+## Technologies ⚡
+
 
 <div align="center">
 
