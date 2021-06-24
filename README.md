@@ -5,7 +5,7 @@
 
 Francisco ( Ulzahk ) Suarez is a programmer focused on developing and improving the backend structure of large applications. In addition to following agile methodologies to document each of the processes carried out and thus achieve the established objectives. He invests his free time in learning with online courses, making web projects and exercising by jumping rope. 
 
-<h2 align="center" style="margin-bottom: 1rem;">Reach Him On 📫 </h2>
+<p align="center" style="margin-bottom: 1rem;font-size: 1.5rem;">Reach Him On 📫 </p>
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/-Ulzahk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ulzahk)
@@ -16,7 +16,9 @@ Francisco ( Ulzahk ) Suarez is a programmer focused on developing and improving 
 
 ---
 
-<h2>GitHub Stats 📊<h2>
+<p style="font-size: 1.7rem;">
+  GitHub Stats 📊
+</p>
 <div align="center">
   <img alt="Ulzahk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ulzahk&show_icons=true&hide_border=true&title_color=ffa500&text_color=fff&icon_color=ffa500&bg_color=900,414141,000000&hide=contribs,issues" />
 
@@ -28,7 +30,11 @@ Francisco ( Ulzahk ) Suarez is a programmer focused on developing and improving 
 
 ---
 
-<h2>Technologies ⚡ </h2>
+<p style="font-size: 1.7rem;">
+  Technologies ⚡
+</p>
+
+<div align="center">
 
 ### Frontend 📲
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=socialt&logo=html5&logoColor=white)](https://www.w3.org/TR/html52/)
@@ -48,3 +54,5 @@ Francisco ( Ulzahk ) Suarez is a programmer focused on developing and improving 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
 [![Notion](https://img.shields.io/badge/-Notion-F2F2F2?style=float&logo=notion&logoColor=black)](https://www.notion.so/)
 [![Trello](https://img.shields.io/badge/-Trello-0080CB?style=flat&logo=trello)](https://trello.com/)
+
+</div>
