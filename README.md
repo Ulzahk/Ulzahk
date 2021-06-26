@@ -24,7 +24,7 @@ Francisco ( Ulzahk ) Suarez is a programmer focused on developing and improving 
 
 ---
 
-## GitHub Stats 📊
+### GitHub Stats 📊
 
 <div align="center">
   <img alt="Ulzahk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ulzahk&show_icons=true&hide_border=true&title_color=ffa500&text_color=fff&icon_color=ffa500&bg_color=900,414141,000000&hide=contribs,issues" />
