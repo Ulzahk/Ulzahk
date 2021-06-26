@@ -2,6 +2,7 @@
   <img width="300" src="./assets/animated-cover.gif" alt="Ulzahk's animated cover">
 <diV>
 
+
 <h1 align="center" style="font-size: 2rem;">
   Good Day!
   <img src="./assets/wave.gif" width= "35px"> 
