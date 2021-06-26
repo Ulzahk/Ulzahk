@@ -1,6 +1,6 @@
 <div align="center">
   <img width="300" src="./assets/animated-cover.gif" alt="Ulzahk's animated cover">
-<diV>
+</div>
 
 <h1 align="center" style="font-size: 2rem;">
   Good Day!
