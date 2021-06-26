@@ -1,3 +1,5 @@
+<img style="border-radius:0.5rem" src="./assets/animated-cover.gif" alt="Ulzahk's animated cover">
+
 <h1 align="center" style="font-size: 2rem;">
   Good Day!
   <img src="./assets/wave.gif" width= "35px"> 
