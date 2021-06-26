@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="border-radius:0.5rem; max-width: 300px" src="./assets/animated-cover.gif" alt="Ulzahk's animated cover">
+  <img width="300" src="./assets/animated-cover.gif" alt="Ulzahk's animated cover">
 <diV>
 
 <h1 align="center" style="font-size: 2rem;">
