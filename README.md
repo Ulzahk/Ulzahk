@@ -55,7 +55,7 @@ Francisco ( Ulzahk ) Suarez is a programmer focused on developing and improving 
 [![Express](https://img.shields.io/badge/-Express-gray?style=flat)](https://expressjs.com/)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-F2F2F2?style=flat&logo=mongodb)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)](https://www.postgresql.org/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-F2F2F2?style=flat&logo=postgresql)](https://www.postgresql.org/)
 
 #### DevTools 🛠 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
