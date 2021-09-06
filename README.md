@@ -7,7 +7,7 @@
   <img src="./assets/wave.gif" width= "35px"> 
 </h1>
 
-Francisco ( Ulzahk ) Suarez is a programmer focused on developing and improving the backend structure of large applications. In addition to following agile methodologies to document each of the processes carried out and thus achieve the established objectives. He invests his free time in learning with online courses, making web projects and exercising by jumping rope. 
+Francisco ( Ulzahk ) Suarez is a developer focused on create and improve the structure of large applications. In addition to following agile methodologies to document each of the processes carried out and thus achieve the established objectives. He invests his free time in learning with online courses, making web projects and exercising by jumping rope. 
 
 
 <div align="center">
