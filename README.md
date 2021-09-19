@@ -57,7 +57,7 @@ Francisco ( Ulzahk ) Suarez is a developer focused on create and improve the str
 [![MongoDB](https://img.shields.io/badge/-MongoDB-F2F2F2?style=flat&logo=mongodb)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-F2F2F2?style=flat&logo=postgresql)](https://www.postgresql.org/)
 
-#### DevTools 🛠 
+#### Tools 🛠 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
 [![Notion](https://img.shields.io/badge/-Notion-F2F2F2?style=float&logo=notion&logoColor=black)](https://www.notion.so/)
 [![Trello](https://img.shields.io/badge/-Trello-0080CB?style=flat&logo=trello)](https://trello.com/)
