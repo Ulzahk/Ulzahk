@@ -47,6 +47,7 @@ Francisco ( Ulzahk ) Suarez is a developer focused on create and improve the str
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=socialt&logo=html5&logoColor=white)](https://www.w3.org/TR/html52/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat&logo=javascript)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-f2f2f2?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-darkgray??style=flat&logo=react)](https://reactjs.org/)
 [![React](https://img.shields.io/badge/-React%20Native-gray?style=flat&logo=react)](https://reactnative.dev/)
 
