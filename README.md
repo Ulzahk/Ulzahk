@@ -43,7 +43,7 @@ Francisco ( Ulzahk ) Suarez is a developer focused on create and improve the str
 
 <div align="center">
 
-#### Frontend 📲
+#### Front End 📲
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=socialt&logo=html5&logoColor=white)](https://www.w3.org/TR/html52/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat&logo=javascript)](https://www.javascript.com/)
@@ -51,11 +51,11 @@ Francisco ( Ulzahk ) Suarez is a developer focused on create and improve the str
 [![React](https://img.shields.io/badge/-React-darkgray??style=flat&logo=react)](https://reactjs.org/)
 [![React](https://img.shields.io/badge/-React%20Native-gray?style=flat&logo=react)](https://reactnative.dev/)
 
-#### Backend 🗃 
+#### Back End 🗃 
 [![Nodejs](https://img.shields.io/badge/-Node.js-F2F2F2?style=flat&logo=Node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/-Express-gray?style=flat)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/badge/-NestJS-f2f2f2?style=flat&logo=nestjs&logoColor=e0234e)](https://nestjs.com/)
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-F2F2F2?style=flat&logo=mongodb)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-F2F2F2?style=flat&logo=postgresql)](https://www.postgresql.org/)
 
