@@ -12,7 +12,7 @@ Francisco ( Ulzahk ) Suarez is a developer focused on create and improve the str
 
 <div align="center">
 
-### Reach Him On 📫
+## 📫 Reach Him On
 
 <br/>
 
@@ -24,7 +24,7 @@ Francisco ( Ulzahk ) Suarez is a developer focused on create and improve the str
 
 ---
 
-### GitHub Stats 📊
+## 📊 GitHub Stats
 
 <div align="center">
   <img alt="Ulzahk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ulzahk&show_icons=true&hide_border=true&title_color=ffa500&text_color=fff&icon_color=ffa500&bg_color=900,414141,000000&hide=contribs,issues" />
@@ -38,12 +38,12 @@ Francisco ( Ulzahk ) Suarez is a developer focused on create and improve the str
 ---
 
 
-### Technologies ⚡
+## ⚡ Technologies
 
 
 <div align="center">
 
-#### Front End 📲
+### 📲 Front End
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=socialt&logo=html5&logoColor=white)](https://www.w3.org/TR/html52/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat&logo=javascript)](https://www.javascript.com/)
@@ -51,7 +51,7 @@ Francisco ( Ulzahk ) Suarez is a developer focused on create and improve the str
 [![React](https://img.shields.io/badge/-React-darkgray??style=flat&logo=react)](https://reactjs.org/)
 [![React](https://img.shields.io/badge/-React%20Native-gray?style=flat&logo=react)](https://reactnative.dev/)
 
-#### Back End 🗃 
+### 🗃 Back End
 [![Nodejs](https://img.shields.io/badge/-Node.js-F2F2F2?style=flat&logo=Node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/-Express-gray?style=flat)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/badge/-NestJS-f2f2f2?style=flat&logo=nestjs&logoColor=e0234e)](https://nestjs.com/)
@@ -59,7 +59,7 @@ Francisco ( Ulzahk ) Suarez is a developer focused on create and improve the str
 [![MongoDB](https://img.shields.io/badge/-MongoDB-F2F2F2?style=flat&logo=mongodb)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-F2F2F2?style=flat&logo=postgresql)](https://www.postgresql.org/)
 
-#### Tools 🛠 
+### 🛠 Tools
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
 [![Notion](https://img.shields.io/badge/-Notion-F2F2F2?style=float&logo=notion&logoColor=black)](https://www.notion.so/)
 [![Trello](https://img.shields.io/badge/-Trello-0080CB?style=flat&logo=trello)](https://trello.com/)
